@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "元彼女のみなさまへ",
+  "base_artist": "コレサワ",
+  "createdAt": "2025-12-08T13:49:27.973361Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "元彼女のみなさまへ",
+      "artist": "コレサワ",
+      "has_synced": false,
+      "path": "select/pl_01_元彼女のみなさまへ_コレサワ.txt"
+    }
+  ]
+}
